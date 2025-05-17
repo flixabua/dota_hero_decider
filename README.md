@@ -16,6 +16,6 @@ You need python, though.
 ### Execution
 call the python file "HeroDecider.py" and add a number as arguement if you want more than 1 result:
 
-> python3 HeroDecider.py
+`python3 HeroDecider.py`
 
-> python3 HeroDecider.py 3
+`python3 HeroDecider.py 3`
