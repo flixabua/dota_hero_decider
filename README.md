@@ -5,6 +5,9 @@ For the dota player, that can't decide what to play, but is too afraid of the ra
 This is just some small script made for me and my friends, that I will change and modify as I please.
 So no real plan, structure or real life use
 
+## Structure
+Some loose scripts, WIP should be moved in its own directory.
+
 ## Usage
 
 ### Configuration:
